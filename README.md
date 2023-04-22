@@ -12,24 +12,29 @@
 
 ```
 
----
-
 The [Nexera Protocol](https://nexeraprotocol.com) is a blockchain agnostic infrastructure layer.
 
+---
+
+
 </div>
+
+## About Nexera
+
+Nexera proposes a new approach to Data Storage within Blockchain, placing mutable data containers (NFTs) in a central position. These novel mNFTs are derived from the [SolidState's ERC-721 contract](https://github.com/solidstate-network/solidstate-solidity/tree/master/contracts/token/ERC721), but they also include dynamic and polymorphic storage capabilities.
+
+Visit [https://docs.nexera.id](https://docs.nexera.id) to learn more!
 
 ## Get Involved
 
 Right now, open source communities, governments, and financial institutions are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/)
-* [The MetaNFT EIP](https://eip.nexeraprotocol.com/)
-* [Resources](https://sdk.nexeraprotocol.com/)
-* [NexeraID](https://nexera.id/)
+* [NexeraID Portal](https://nexera.id/)
 * [Explore career oportunities](https://allianceblock.io/)
-* [Apply for a DAO grant](https://blog.allianceblock.io/abdao-introducing-the-allianceblock-dao-d7ff259e7c9a)
-
-Visit [docs.nexera.id](https://docs.nexera.id) to learn more!
+* [Apply for a DAO grant](https://dao.allianceblock.io/) (Coming [soon](https://blog.allianceblock.io/abdao-introducing-the-allianceblock-dao-d7ff259e7c9a) )
+* [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/) (Coming soon)
+* [The MetaNFT EIP](https://eip.nexeraprotocol.com/) (Coming soon)
+* [Resources](https://sdk.nexeraprotocol.com/) (Coming soon)
 
 
 ## Find us elsewhere 🙋
