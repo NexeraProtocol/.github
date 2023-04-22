@@ -30,7 +30,7 @@ Visit [https://docs.nexera.id](https://docs.nexera.id) to learn more!
 Right now, open source communities, governments, and financial institutions are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 * [NexeraID Portal](https://nexera.id/)
-* [Explore career oportunities](https://allianceblock.io/)
+* [Explore career oportunities](https://www.linkedin.com/company/allianceblock)
 * [Apply for a DAO grant](https://dao.allianceblock.io/) (Coming [soon](https://blog.allianceblock.io/abdao-introducing-the-allianceblock-dao-d7ff259e7c9a) )
 * [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/) (Coming soon)
 * [The MetaNFT EIP](https://eip.nexeraprotocol.com/) (Coming soon)
