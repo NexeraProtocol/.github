@@ -12,7 +12,7 @@
 
 ```
 
-Home to NexeraID and the MetaNFT standard.
+Home to [**NexeraID**](https://nexera.id/) and the **MetaNFT** standard.
 
 ---
 
@@ -25,8 +25,6 @@ Welcome to the Nexera GitHub organization, the developer hub for everything Nexe
 
 - **NEW** Learn more about [NexeraID](https://docs.nexera.id)
 - **NEW** Learn more about [Brillion](https://brillion.finance)
-- Learn more about the [Nexera Protocol](https://nexeraprotocol.com)
-- Learn more about the [MetaNFT Standard](https://eips.ethereum.org/EIPS/eip-2535)
 
 
 ## The Nexera Protocol
