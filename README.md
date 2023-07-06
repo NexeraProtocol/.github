@@ -12,20 +12,31 @@
 
 ```
 
-The [Nexera Protocol](https://nexeraprotocol.com) is a blockchain agnostic infrastructure layer.
+Home to NexeraID and the MetaNFT standard.
 
 ---
 
 
 </div>
 
-## About Nexera
+## About
 
-The **Nexera Protocol** is a cutting-edge, blockchain-based protocol that aims to provide a novel way for perceiving and engaging with digital interactions. It harnesses the transformative power of distributed ledger technology to create a comprehensive ecosystem that's secure, decentralized, and above all user-centric.
+Welcome to the Nexera GitHub organization, the developer hub for everything Nexera.
 
-**Nexera** proposes a new approach to Data Storage across Blockchains, placing mutable data containers (NFTs) in a central position. These novel approach is derived from the [MetaNFT Standard](https://eips.ethereum.org/EIPS/eip-2535), and it also includes dynamic and polymorphic storage capabilities.
+- **NEW** Learn more about [NexeraID](https://docs.nexera.id)
+- **NEW** Learn more about [Brillion](https://brillion.finance)
+- Learn more about the [Nexera Protocol](https://nexeraprotocol.com)
+- Learn more about the [MetaNFT Standard](https://eips.ethereum.org/EIPS/eip-2535)
+
+
+## The Nexera Protocol
+The [Nexera Protocol](https://nexeraprotocol.com) is a blockchain agnostic infrastructure layer.
+
+The **Nexera Protocol** is a cutting-edge, blockchain-based protocol that aims to provide a novel way for engaging with digital interactions. It harnesses the transformative power of distributed ledger technology to create a comprehensive ecosystem that's secure, decentralized, and above all user-centric.
 
 Data is at the core of all digital interactions. As Blockchain Technologies continues to mature and expand, it is becoming increasingly important to enable more flexible and sophisticated on-chain data management solutions.
+
+By placing mutable data containers (NFTs) in a central position, the protocol is derived from the [MetaNFT Standard](https://github.com/ethereum/EIPs/pull/7210) in order to include dynamic and polymorphic storage capabilities.
 
 In particular, mutable data containers have been identified as a critical missing piece in the on-chain data ecosystems. The **Nexera Protocol** addresses the limitations of traditional solutions by enabling on-chain data mutability and providing a framework for standardized, interoperable, and composable data containers:
 
@@ -45,11 +56,7 @@ In particular, mutable data containers have been identified as a critical missin
 <img src="https://i.pinimg.com/originals/25/6c/6c/256c6c2e407af3316fd065fe96134327.gif" alt= “ecosystem” width="200" height="value">
 </div>
 
-Learn more about the [Nexera Protocol](https://docs.nexeraprotocol.com)
 
-Learn more about the [MetaNFT Standard](https://eips.ethereum.org/EIPS/eip-2535)
-
-**NEW** Learn more about [NexeraID](https://docs.nexera.id)!
 
 ---
 
