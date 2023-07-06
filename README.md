@@ -25,6 +25,7 @@ Welcome to the Nexera GitHub organization, the developer hub for everything Nexe
 
 - **NEW** Learn more about [NexeraID](https://docs.nexera.id)
 - **NEW** Learn more about [Brillion](https://brillion.finance)
+- **NEW** Learn more about [ArkeFi](https://www.arkefi.com/)
 
 
 ## The Nexera Protocol
@@ -38,16 +39,17 @@ By placing mutable data containers (NFTs) in a central position, the protocol is
 
 In particular, mutable data containers have been identified as a critical missing piece in the on-chain data ecosystems. The **Nexera Protocol** addresses the limitations of traditional solutions by enabling on-chain data mutability and providing a framework for standardized, interoperable, and composable data containers:
 
-- Procedurally generating Metadata from within the information stored within the MetaNFT
-- Storing arbitrary amounts of information within the DataStorage Library (dynamic Properties)
+- Procedurally generating Metadata from the information stored within the MetaNFT
+- Storing arbitrary amounts of data within the DataStorage Library (dynamic Properties)
 - Restrictions based on programmable conditions (transfer restriction, locking assets, internal and external hooks)
 - Wrapping of native assets (ERC tokens, both current as well as future implementations)
 - Fractionalization, merging, attaching, and detaching of information
 - Tokenization of real assets (both tangible as well as intangible)
 - Exposing multiple interfaces for the same data container (PropertyManagers)
-- Identity management(opens in a new tab) (ZKP, Compliance Rule Engine)
-- Smart Wallet(opens in a new tab) (Account Abstraction, programmable rules, recovery rules, automated transactions, etc)
-- On-chain oracle aggregation with subscription, payment streaming, and automated on-chain triggers (i.e. for rebalancing a DeFi position based on a tokenized strategy).
+- Identity management (ZKP, Compliance Rule Engine)
+- Smart Wallet (Account Abstraction, programmable rules, recovery rules, automated transactions, etc)
+- On-chain oracle aggregation with subscription, payment streaming, and automated on-chain triggers (i.e. for rebalancing a DeFi position based on a tokenized strategy)
+- Agnostic staking solutions (multiple inputs and multiple reward strategies)
 
 
 <div align="center">
