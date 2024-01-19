@@ -12,7 +12,7 @@
 
 ```
 
-Home to [**NexeraID**](https://nexera.id/) and the [**ERC-7208**](https://eips.ethereum.org/EIPS/eip-7208) standard.
+Home to the [**ERC-7208**](https://eips.ethereum.org/EIPS/eip-7208) standard.
 
 ERC-7208 is the standard to make all other standards interoperable. **On-chain data containers** are Smart Contracts that store both data and metadata and can be modified (mutable), expanded upon (extensible), and integrated with other assets (composable). Most standards require the storage of information to be within the same smart contract as the logic for managing said storage. ERC-7208 abstracts the logic from the data, bringing versatility to the ecosystem.
 
@@ -75,7 +75,6 @@ In particular, mutable data containers have been identified as a critical missin
 Right now, open-source communities, governments, and financial institutions are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
 * [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/)
-* [NexeraID Portal](https://nexera.id/)
 * [Explore career oportunities](https://www.linkedin.com/company/allianceblock)
 * [Apply for a DAO grant](https://dao.allianceblock.io/) ([Coming soon](https://blog.allianceblock.io/abdao-introducing-the-allianceblock-dao-d7ff259e7c9a) )
 * [Nexera Service Registry](https://github.com/NexeraProtocol/Nexera-Service-Registry/) (Coming soon)
