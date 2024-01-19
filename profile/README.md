@@ -12,7 +12,9 @@
 
 ```
 
-Home to [**NexeraID**](https://nexera.id/) and the **MetaNFT** standard.
+Home to [**NexeraID**](https://nexera.id/) and the [**ERC-7208**](https://eips.ethereum.org/EIPS/eip-7208) standard.
+
+ERC-7208 is the standard to make all other standards interoperable. **On-chain data containers** are Smart Contracts that store both data and metadata and can be modified (mutable), expanded upon (extensible), and integrated with other assets (composable). Most standards require the storage of information to be within the same smart contract as the logic for managing said storage. ERC-7208 abstracts the logic from the data, bringing versatility to the ecosystem.
 
 ---
 
@@ -23,19 +25,27 @@ Home to [**NexeraID**](https://nexera.id/) and the **MetaNFT** standard.
 
 Welcome to the Nexera GitHub organization, the developer hub for everything Nexera.
 
+Here are a couple of the use cases implemented with the Nexera Protocol.
+
 - **NEW** Learn more about [NexeraID](https://docs.nexera.id)
 - **NEW** Learn more about [Brillion](https://brillion.finance)
 - **NEW** Learn more about [ArkeFi](https://www.arkefi.com/)
+- **NEW** Learn more about [FUNDRs](https://www.fundrs.app/)
+- **NEW** Learn more about [Nuklai](https://www.nukl.ai/)
 
 
 ## The Nexera Protocol
-The [Nexera Protocol](https://nexeraprotocol.com) is a blockchain agnostic infrastructure layer.
+The [Nexera Protocol](https://nexeraprotocol.com) is the Reference Implementation of the [ERC-7208](https://eips.ethereum.org/EIPS/eip-7208), and as such it acts as a blockchain-agnostic infrastructure layer.
+ - Information is stored as Property data within the ODC.
+ - Properties can have Restrictions, governing how and when the Property data is modifiable.
+ - Property Managers are smart contracts that can modify the Property Data and Restrictions.
+ - ERC-7208 enables data to have multiple interfaces (ERCs) concurrently, as the logic of implementation is abstracted from the storage.
 
 The **Nexera Protocol** is a cutting-edge, blockchain-based protocol that aims to provide a novel way for engaging with digital interactions. It harnesses the transformative power of distributed ledger technology to create a comprehensive ecosystem that's secure, decentralized, and above all user-centric.
 
 Data is at the core of all digital interactions. As Blockchain Technologies continues to mature and expand, it is becoming increasingly important to enable more flexible and sophisticated on-chain data management solutions.
 
-By placing mutable data containers (NFTs) in a central position, the protocol is derived from the [MetaNFT Standard](https://github.com/ethereum/EIPs/pull/7210) in order to include dynamic and polymorphic storage capabilities.
+By placing mutable data containers (*ODCs*) in a central position, the Nexera Protocol provides dynamic and polymorphic storage capabilities that abstract the logic of smart contracts from the data stored within them.
 
 In particular, mutable data containers have been identified as a critical missing piece in the on-chain data ecosystems. The **Nexera Protocol** addresses the limitations of traditional solutions by enabling on-chain data mutability and providing a framework for standardized, interoperable, and composable data containers:
 
@@ -62,14 +72,15 @@ In particular, mutable data containers have been identified as a critical missin
 
 ## Get Involved
 
-Right now, open source communities, governments, and financial institutions are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Right now, open-source communities, governments, and financial institutions are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
 
-* [Nexera Service Registry](https://github.com/NexeraProtocol/Nexera-Service-Registry/)
+* [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/)
 * [NexeraID Portal](https://nexera.id/)
 * [Explore career oportunities](https://www.linkedin.com/company/allianceblock)
 * [Apply for a DAO grant](https://dao.allianceblock.io/) ([Coming soon](https://blog.allianceblock.io/abdao-introducing-the-allianceblock-dao-d7ff259e7c9a) )
-* [Nexera Protocol Documentation](https://docs.nexeraprotocol.com/) (Coming soon)
+* [Nexera Service Registry](https://github.com/NexeraProtocol/Nexera-Service-Registry/) (Coming soon)
 * [SDK and Developer Resources](https://sdk.nexeraprotocol.com/) (Coming soon)
+* [ODC Playground](https://playground.nexeraprotocol.com/) (Coming soon)
 
 <div align="center">
 <img src="https://cdn.dribbble.com/users/107759/screenshots/4330227/dribbble-loop-60.gif" alt= “ecosystem” width="500" height="value">
